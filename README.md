@@ -4,11 +4,15 @@ This repository contains code for deploying a proof-of-concept Flask Rest API wh
 The apps are deployed as Azure web services on the following two links:
 
 [Dash app](http://irisrestapp.azurewebsites.net)
+
 [Flask rest API](http://irisrest.azurewebsites.net/predict?key=a7444d96)
 
 In the latter the key is the API key needed to access the service.
 
 This work builds on the work of other repositories:
+
 [Flask Rest API](https://github.com/amirziai/sklearnflask)
+
 [Flask API Key](https://github.com/ericsopa/flask-api-key)
+
 [Gunicorn Meinheld Docker image](https://github.com/tiangolo/meinheld-gunicorn-docker)
