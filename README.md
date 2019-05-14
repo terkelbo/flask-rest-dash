@@ -5,7 +5,7 @@ The apps are deployed as Azure web services on the following two links:
 
 [Dash app](http://irisrestapp.azurewebsites.net)
 
-[Flask rest API](http://irisrest.azurewebsites.net/predict?key=a7444d96)
+[Flask rest API](http://irisrest.azurewebsites.net?key=a7444d96)
 
 In the latter the key is the API key needed to access the service.
 
